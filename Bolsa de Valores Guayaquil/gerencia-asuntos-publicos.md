@@ -162,7 +162,7 @@ Eso no significa que todas las tareas deban recaer en una sola persona. La respo
 
 ## 5. Organización formal de las funciones
 
-Las 8 áreas se agrupan en cinco responsabilidades principales:
+Las áreas de gestión se agrupan en cinco responsabilidades principales (la inteligencia de mercado alimenta, sobre todo, la A y la B):
 
 - **A. Dirección estratégica y posicionamiento:** definir prioridades, mensajes, posicionamiento y planes de comunicación alineados con la estrategia de la BVG.
 - **B. Comunicación, contenidos y marca:** comunicación institucional, narrativa de marca, canales, campañas, divulgación de datos y materiales corporativos.
