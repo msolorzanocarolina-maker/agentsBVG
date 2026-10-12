@@ -14,7 +14,7 @@ Su función es traducir la estrategia institucional en mensajes, relaciones, exp
 
 **En términos sencillos:** el área trabaja para que la BVG no solamente haga cosas, sino que esas acciones tengan visibilidad, construyan reputación, generen relaciones y contribuyan a transformar la percepción del mercado de valores en Ecuador.
 
-## 2. Las 8 grandes áreas de la gestión
+## 2. Las grandes áreas de la gestión
 
 ### 2.1 Estrategia de comunicación y posicionamiento institucional
 
@@ -121,6 +121,10 @@ La administración estratégica del trabajo del área.
 - Identificar oportunidades de mejora y proponer nuevas acciones estratégicas.
 
 *La diferencia:* no es simplemente ejecutar solicitudes, sino gestionar una gerencia: planificar, priorizar, coordinar, medir y rendir cuentas.
+
+### 2.9 Inteligencia de mercado, análisis de datos y posicionamiento estratégico
+
+Línea analítica que asume la Gerencia: análisis del mercado de valores y de la coyuntura económica, generación de insights, insumos para vocería y automatización de reportes. El detalle, el perfil del analista propuesto y los entregables están en [inteligencia-de-mercado.md](inteligencia-de-mercado.md).
 
 ## 3. Cómo se ve el trabajo en la práctica
 
